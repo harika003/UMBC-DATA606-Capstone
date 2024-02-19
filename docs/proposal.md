@@ -34,7 +34,7 @@
     
     <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/df_shape.jpeg" width="600">
 
-  * Data Description: What does each row represent? 
+  * Data Description:  
 
 
     <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/df_head.jpeg" width="600">
@@ -42,18 +42,26 @@
 
     <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/df_describe.jpeg" width="600">
 
-    *  **Observations** :
+  
+  * What does each row represent?
+    - sex: Male(1) or Female(0)
+    - currentSmoker: Whether the patient is smoker or not. Yes(1) and No(0)
+    - BPMeds: Whether the patient was on blood pressure medications. Yes(1) and No(0)
+    - prevalentStroke: Whether the patient had a stroke before. Yes(1) and No(0)
+    - prevalentHyp: Whether the patient has history of Hypertension. Yes(1) and No(0)
+    - diabetes: Whether the patient has diabetes. Yes(1) and No(0)
+    - TenYearCHD: This is our target variable which we will be predicting. Yes(1) and No(0)
+    - education: Defined in classes 1-4. Tells us how much our patient is educated.
+    - age: Contains ages of our patients in whole numbers.
+    - cigsPerDay: Contains the average of cigarettes smoked by the patients in one day.
+    - totChol: Contains total cholesterol level of each patient.
+    - sysBP: Contains systolic blood pressure levels of each patient.
+    - diaBP: Contains diastolic blood pressure levels of each patient.
+    - BMI: Contains body mass index of each patient.
+    - heartRate: Contains the average heart rate of the patient.
+    - glucose: Contains the glucose level of each patient.
 
-      1. Some the features are Discrete so let us analyze continuous ones
-      2. Age : We can see that Min. age of subject found in given records is 32 while Max. being 70. So our values are ranging from 32 to 70.
-      3. cigsPerDay : Subject smoking Cig. per day is as low as nill while we have 70 Cigs. per day making the Peak.
-      4. totChol : Min. Cholesterol level recorded in our dataset is 107 while Max. is 696.
-      5. sysBP : Min. Systolic Blood Pressure observed in Subject is 83 while Max. is 295.
-      6. diaBP : Min. Diastolic Blood Pressure observed in Subject is 48 while Max. is 142.
-      7. BMI : Body Mass Index in our dataset ranges from 15.54 to 56.
-      8. heartRate : Observed Heartrate in our case study is 44 to 143.
-      9. glucose : Glucose sugar level range is 40 to 394.
-    
+
 
   * Data dictionary:
 
