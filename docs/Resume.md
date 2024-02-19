@@ -3,7 +3,7 @@
 **☎️  6673698335**  
 **📧 harikatamma01@gmail.com**
 
-<img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/data/Headshot.jpeg" width="200">
+<img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/Headshot.jpeg" width="200">
 
  * ### Education 
    * **Master in Professional Studies**: Data Science *(2022-24)*
