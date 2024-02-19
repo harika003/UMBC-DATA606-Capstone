@@ -20,6 +20,8 @@
   * How do different machine learning algorithms compare in terms of their predictive performance for identifying individuals at risk of developing heart disease?
   * What are the most influential clinical and demographic factors associated with the occurrence of heart disease, as identified by predictive modeling techniques?
   * which algorithm best suits the model?
+  * Success Parameter:Whether the model has predicted & recommended accurately.
+
     
 # 3. Data
   * Data Source: The coronary heart disease dataset (Framingham dataset), which is available for download from University of Washington’s Bio-Statistics Class, was used in this study. This data collection is derived from current cardiovascular research of people living in Framingham, Massachusetts.This dataset is on-going research.
