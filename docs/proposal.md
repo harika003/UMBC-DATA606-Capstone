@@ -29,13 +29,13 @@
     
   * Data Size:
   
-    <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/df_size.jpeg" width="400">
+     * Size of the dataset: 0.5177001953125 MB
+     * Size of the dataset: 0.0005055665969848633 GB
 
   * Data shape:
 
-    
-    <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/df_shape.jpeg" width="600">
-
+      * No. of Records : 4240 
+      * No. of Features :  16
   * Data Description:  
 
 
