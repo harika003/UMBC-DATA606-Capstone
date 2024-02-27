@@ -36,32 +36,24 @@
 
       * No. of Records : 4240 
       * No. of Features :  16
-  * Data Description:  
-
-
-    <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/df_head.jpeg" width="600">
-
-
-    <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/df_describe.jpeg" width="600">
-
-  
-  * What does each row represent?
-    - sex: Male(1) or Female(0)
-    - currentSmoker: Whether the patient is smoker or not. Yes(1) and No(0)
-    - BPMeds: Whether the patient was on blood pressure medications. Yes(1) and No(0)
-    - prevalentStroke: Whether the patient had a stroke before. Yes(1) and No(0)
-    - prevalentHyp: Whether the patient has history of Hypertension. Yes(1) and No(0)
-    - diabetes: Whether the patient has diabetes. Yes(1) and No(0)
-    - TenYearCHD: This is our target variable which we will be predicting. Yes(1) and No(0)
-    - education: Defined in classes 1-4. Tells us how much our patient is educated.
-    - age: Contains ages of our patients in whole numbers.
-    - cigsPerDay: Contains the average of cigarettes smoked by the patients in one day.
-    - totChol: Contains total cholesterol level of each patient.
-    - sysBP: Contains systolic blood pressure levels of each patient.
-    - diaBP: Contains diastolic blood pressure levels of each patient.
-    - BMI: Contains body mass index of each patient.
-    - heartRate: Contains the average heart rate of the patient.
-    - glucose: Contains the glucose level of each patient.
+  * Data Description: 
+      * What does each row represent?
+        - sex: Male(1) or Female(0)
+        - currentSmoker: Whether the patient is smoker or not. Yes(1) and No(0)
+        - BPMeds: Whether the patient was on blood pressure medications. Yes(1) and No(0)
+        - prevalentStroke: Whether the patient had a stroke before. Yes(1) and No(0)
+        - prevalentHyp: Whether the patient has history of Hypertension. Yes(1) and No(0)
+        - diabetes: Whether the patient has diabetes. Yes(1) and No(0)
+        - TenYearCHD: This is our target variable which we will be predicting. Yes(1) and No(0)
+        - education: Defined in classes 1-4. Tells us how much our patient is educated.
+        - age: Contains ages of our patients in whole numbers.
+        - cigsPerDay: Contains the average of cigarettes smoked by the patients in one day.
+        - totChol: Contains total cholesterol level of each patient.
+        - sysBP: Contains systolic blood pressure levels of each patient.
+        - diaBP: Contains diastolic blood pressure levels of each patient.
+        - BMI: Contains body mass index of each patient.
+        - heartRate: Contains the average heart rate of the patient.
+        - glucose: Contains the glucose level of each patient.
 
 
 
