@@ -2,9 +2,10 @@
 - Title: **Prediction of Heart Diseases**
 - Prepared for UMBC Data Science Master Degree Capstone by Harika Tamma under the guidance of Dr Chaojie (Jay) Wang
 - Author Name: Harika Tamma
+- Semester: Spring 2024
 - GitHub profile : https://github.com/harika003
 - LinkedIn profile : https://www.linkedin.com/in/harika-tamma-938814173/
-- PowerPoint presentation file :https://docs.google.com/presentation/d/1a_BuyrsOqhSJQbKDy6GM_dqN1GFs2dkCT_86f7BxlzY/edit#slide=id.p15
+- PowerPoint presentation file: https://docs.google.com/presentation/d/1a_BuyrsOqhSJQbKDy6GM_dqN1GFs2dkCT_86f7BxlzY/edit#slide=id.p15
 # 2. Background
 - Heart attacks are a widespread and life-threatening issue globally, caused by blockages in blood vessels due to plaque buildup. In the United States, a heart attack occurs every 40 seconds, resulting in approximately 805,000 cases annually, with over 600,000 resulting in death. Similarly, India faces a significant burden, with 70% of cardiac deaths occurring in the 30-60 age group. Over the past three years, India has consistently recorded over 28,000 deaths annually due to heart attacks.
   
