@@ -70,6 +70,59 @@
    - We have 4240 records and 16 features associated to the data set. We will be dealing with all the features for our Ml model.
      
 # 4. Exploratory Data Analysis (EDA)
+ Different data analysis has been done for feature selection to see the impact on prediction.
+ - **Heatmap:** Explains which features are relevant for the prediction.
+
+
+<img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/Heatmap.png" width="500">
+We can see that
+SysBP and diaBP appear to be quite strongly correlated, and there is a negative connection between education and the output variable. 
+
+- **Bivariate Analysis plot Gender wise absence / presence of Chronic Heart Disease (CHD):**
+
+  <img src ="https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/CHD_by_gender.png" width= "500">
+  
+  1. The  analysis plot above shows the prevalence and absence of chronic heart disease (CHD) by gender.
+  2. Our observations indicate that there are far too many people in our dataset who do not have CHD.
+  3. Negative: Between 80 and 90 percent of females and 60 to 70 percent of males belong to the negative category.
+  4. positive: CHD affects roughly 10% of both male and female individuals.
+  5. Based on this, we can conclude that our dataset is unbalanced, with roughly 80–90% of the classifications being negative and 10–15%         being positive.
+  
+- **Distributions of Features:**
+
+  <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/Distribution_features.png" width= "500">
+
+  * We can see Glucose, Total Cholesterol, Systolic BP & BMI is Right Skewed.
+    
+
+  <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/download-5.png" width= "500">
+  
+ 
+  * We can clearly observe that as Age increases the count of Glucose increases too. While Gender wise Glucose Count has almost similiar Median with Few outliers in each. 
+Excluding Outliers, Observation make us Clear that for females Cholesterol level is Increasing by Age considering the Quantile (25%, 50%, 75%) values into account. While, for Males the Cholesterol level Quantile is Approx. Similar for each Age Group.
+
+- **Target class count:**
+   - **Before Resampling:**
+
+      <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/data_imbalance.png" width= "500">
+
+      * We got class imbalance that there are 84.5% negative results while 15.15% are positive.  
+So  data resampling is done by using random oversampling to address the class imbalance.
+
+   - **After Resampling:**
+   
+    <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/Resampled_data.png" width = "500">
+
+- **Feature Importance**
+
+    - **Before Resampling:**
+
+       <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/feature_imp_unbalanced.png" width = "500">
+      
+   - **After Resampling:**
+
+      <img src = "https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/images/feature_imp_balanced.png" width= "500">
+
   
 # 5. Model training
   * **Models used for predictive analytics:**
