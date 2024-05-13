@@ -3,7 +3,7 @@
 - Prepared for UMBC Data Science Master Degree Capstone by Harika Tamma under the guidance of Dr Chaojie (Jay) Wang
 - Author Name: Harika Tamma
 - Semester: Spring 2024
-- GitHub profile : https://github.com/harika003
+- GitHub rep link : https://github.com/harika003/UMBC-DATA606-Capstone
 - Report link :https://github.com/harika003/UMBC-DATA606-Capstone/edit/main/docs/report.md
 - PowerPoint presentation:https://github.com/harika003/UMBC-DATA606-Capstone/blob/main/docs/final_presenation.pptx
 - Youtube video : https://youtu.be/_gMURe03XGc
